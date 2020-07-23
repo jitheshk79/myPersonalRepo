@@ -1,0 +1,12 @@
+it_apigghdj_02_enus_02	Introducing the Git Client
+it_apigghdj_02_enus_03	Creating a Local Git Repository
+it_apigghdj_02_enus_04	Creating a Repository on GitHub
+it_apigghdj_02_enus_05	Linking a Local Repo to a Remote One
+it_apigghdj_02_enus_06	Pushing from a Local to a Remote Repo
+it_apigghdj_02_enus_07	Adding Files to a Repository
+it_apigghdj_02_enus_08	Modifying Files in a Repository
+it_apigghdj_02_enus_09	Viewing the Commit Log
+it_apigghdj_02_enus_10	Visualizing Git Branches
+it_apigghdj_02_enus_11	Deleting Files from a Repository
+it_apigghdj_02_enus_12	Visualizing a Git Merge
+it_apigghdj_02_enus_13	Implementing a Merge of Two Branches
